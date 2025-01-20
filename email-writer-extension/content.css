@@ -1,0 +1,14 @@
+.email-writer-button {
+    margin: 5px;
+    padding: 5px;
+    background-color: #4285F4;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.email-writer-button:hover {
+    background-color: #357AE8;
+}
